@@ -10,8 +10,15 @@
     "test": "jest"
   },
   "dependencies": {
+    "@react-native-async-storage/async-storage": "^2.1.2",
     "react": "19.0.0",
-    "react-native": "0.79.2"
+    "react-native": "0.79.2",
+    "react-native-draggable-board": "^1.1.1",
+    "react-native-draggable-flatlist": "^4.0.2",
+    "react-native-drax": "^0.10.3",
+    "react-native-gesture-handler": "^2.25.0",
+    "react-native-reanimated": "^3.17.5",
+    "save": "^2.9.0"
   },
   "devDependencies": {
     "@babel/core": "^7.25.2",
